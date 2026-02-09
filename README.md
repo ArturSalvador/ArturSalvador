@@ -56,7 +56,7 @@ Rondônia, Brasil
 
 ## 📫 Contato
 - 📧 Email: artursalvador.eng.eletrica@gmail.com
-- 💼 LinkedIn: [(https://www.linkedin.com/in/artur-salvador/)]
+- 💼 LinkedIn: (https://www.linkedin.com/in/artur-salvador/)
 ---
 
 ⭐ Obrigado por visitar meu perfil!
